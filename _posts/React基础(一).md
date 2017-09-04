@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      React基础一
+date:       2017-9-4
+author:     zrd
+catalog:    true
+tags:
+    - React
+---
+
+## 引入文件
+***
+在文件头部从react的包中引入`React`和组件父类的`Component`，只要写组件必须引入这两个。  
+例： ` import React, { Component } from 'react'`  
+     ` import ReactDOM from 'react-dom'`
+
+
+
